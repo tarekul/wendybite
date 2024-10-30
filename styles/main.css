@@ -1,0 +1,55 @@
+body {
+    background-color: #444444;
+    color: white;
+}
+
+.wendy {
+    padding: 80px;
+    text-align: center;
+    border: 5px solid #6a737d;
+    width: 960px;
+    margin: auto;
+}
+
+a:link, a:visited {
+    color: #6da
+}
+
+h2 {
+    text-align: left;
+}
+
+.bettyimage {
+    float: right;
+    border: #777777 solid 2px;
+    padding: 7px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.girl {
+    text-align: left;
+    margin: 5px;
+}
+
+.education {
+    text-align: left;
+}
+
+.boy {
+    text-align: left;
+}
