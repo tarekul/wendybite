@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: #444444;
     color: white;
@@ -52,4 +56,5 @@ p {
 
 .boy {
     text-align: left;
+    margin: 5px;
 }
